@@ -1,1 +1,1 @@
-# AI--Study-Jam-21
+# AI-Study-Jam-21
