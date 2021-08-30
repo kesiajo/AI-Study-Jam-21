@@ -12,7 +12,7 @@ learn along with your peers.
 
 You can explore the realm of AI with the aid of <b style="color:#37AA6D;"><i>projects</i></b>, <b style="color:#DE274D"><i>hands-on sessions</i></b>, and <b style="color:#2F7DE9"><i>dedicated mentors</i></b>.
 
-And guess what ?? <h2>">All for free !!</h2>
+And guess what ?? <h2>All for free !!</h2>
 </div>
 
 
