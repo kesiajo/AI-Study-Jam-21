@@ -4,7 +4,7 @@
 <div>
 <p>Hello Everyone !!</p>
 
-Welcome to the <b style= "font-size:18px; color:#B8BDFF">AI Study Jam '21</b> organised by OpenLabs.AI 
+Welcome to the <b style= "font-size:18px; color:#B8BDFF">AI Study Jam '21</b> organised by OpenLabs.AI.
 
 <div>
 This would be an wholesome opportunity to <b>kindle your interest in AI</b> and 
@@ -12,7 +12,7 @@ learn along with your peers.
 
 You can explore the realm of AI with the aid of <b style="color:#37AA6D;"><i>projects</i></b>, <b style="color:#DE274D"><i>hands-on sessions</i></b>, and <b style="color:#2F7DE9"><i>dedicated mentors</i></b>.
 
-And guess what ?? <h2 style="color:">All for free !!</h2>
+And guess what ?? <h2>">All for free !!</h2>
 </div>
 
 
