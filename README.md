@@ -4,7 +4,7 @@
 <span>
 <p>Hello Everyone !!</p>
 
-Welcome to the <b "size:18px; color:#B8BDFF">AI Study Jam '21</b> organised by OpenLabs.AI.
+Welcome to the <b style="size:18px; color:#B8BDFF">AI Study Jam '21</b> organised by OpenLabs.AI.
 
 <span>
 This would be an wholesome opportunity to <b>kindle your interest in AI</b> and 
