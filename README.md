@@ -18,6 +18,6 @@ And guess what ?? <h2>All for free !!</h2>
 
 This repository will provide you with all the materials, including resources, tasks and reference links. Join us in this journey of peer to peer learning. 
 
-<div><img src="https://img.shields.io/badge/All%20the%20best-folks-darkblue"></div>
+<span><img src="https://img.shields.io/badge/All%20the%20best-folks-darkblue"></span>
 
 </span>
