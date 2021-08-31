@@ -12,3 +12,37 @@ The following set of instructions and resources will help you get started with P
 
 - [Docs.python.org/3/](https://docs.python.org/3/)
 
+Going through the following topics will get you covered with the base for Python
+
+- Variables
+- Data types
+- Casting
+- String
+- Booleans
+- Operators
+- List
+- Tuples
+- Sets
+- Dictionaries
+- if..else
+- While loop
+- For loop
+- Try.. Except
+- Functions
+- Lambda functions
+- Arrays
+- Classes/Objects
+- Inheritance
+- Decorators
+
+<h3>Tutorials</h3>
+
+- [Python for beginners W3schools](https://www.w3schools.com/python/)
+- [Python programiz](https://www.programiz.com/python-programming)
+
+<h3>Youtube Links</h3>
+
+- [Python Basics with Sam](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkmRvnFmOd4KhDdlK1oIq23)
+- [Crossroads Python Tutorial](https://www.youtube.com/playlist?list=PLY-ecO2csVHfbpOmWamlb8Mujjdnl1jks)
+
+
