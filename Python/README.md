@@ -7,4 +7,8 @@ The following set of instructions and resources will help you get started with P
 
 ### Installation
 1. Download Python 3.6 from [python.org/downloads](https://python.org/downloads)
-2. Open Python IDLE in your system
+2. Open Python IDLE in your system<br>
+<h3>Official documentation</h3>
+
+- [Docs.python.org/3/](https://docs.python.org/3/)
+
