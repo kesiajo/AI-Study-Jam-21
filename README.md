@@ -21,3 +21,5 @@ This repository will provide you with all the materials, including resources, ta
 <span><img src="https://img.shields.io/badge/All%20the%20best-folks-darkblue"></span>
 
 </span>
+
+The first thing to take care is to get your <b>Python</b> knowledge refreshed. The pool of resources to help you with this is over [here](https://github.com/kesiajo/AI-Study-Jam-21/tree/main/Python) 
