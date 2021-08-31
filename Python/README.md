@@ -1,6 +1,6 @@
 <h1>Fun with Python</h1>
 
-Python 🐍  is one of pillars required for anyone who wishes to pursue Machine Learning 🤖.<br>
+Python 🐍   is one of pillars required for anyone who wishe to pursue Machine Learning 🤖.<br>
 Python is a great tool to implement algorithms for production use. There are several Python packages for basic data analysis and machine learning.
 
 ## Installation
